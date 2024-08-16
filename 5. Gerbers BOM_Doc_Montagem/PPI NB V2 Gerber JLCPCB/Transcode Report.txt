@@ -1,0 +1,243 @@
+
+
+   ---- Transcoding 'D:\ELCIO\UNISINOS\14-PROJETOS\2022_projeto PPI\MONTAGENS\Montagem-PlacaPPI\PPI NB V2 Gerber JLCPCB\Demo PPI NB V2-B_Mask.gbs' ----   Tue Aug  6 16:36:51 2024
+
+D13   --> D100
+D14   --> D101
+D15   --> D102
+D16   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\ELCIO\UNISINOS\14-PROJETOS\2022_projeto PPI\MONTAGENS\Montagem-PlacaPPI\PPI NB V2 Gerber JLCPCB\Demo PPI NB V2-B_Paste.gbp' ----   Tue Aug  6 16:36:55 2024
+
+D10   --> D104
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\ELCIO\UNISINOS\14-PROJETOS\2022_projeto PPI\MONTAGENS\Montagem-PlacaPPI\PPI NB V2 Gerber JLCPCB\Demo PPI NB V2-B_Silkscreen.gbo' ----   Tue Aug  6 16:37:01 2024
+
+D10   --> D105
+D11   --> D106
+D12   --> D107
+D13   --> D108
+D14   --> D109
+D15   --> D110
+D16   --> D111
+D17   --> D112
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\ELCIO\UNISINOS\14-PROJETOS\2022_projeto PPI\MONTAGENS\Montagem-PlacaPPI\PPI NB V2 Gerber JLCPCB\Demo PPI NB V2-F_Cu.gtl' ----   Tue Aug  6 16:37:14 2024
+
+D12   --> D113
+D13   --> D114
+D14   --> D115
+D15   --> D116
+D16   --> D117
+D17   --> D118
+D18   --> D119
+D19   --> D120
+D20   --> D121
+D21   --> D122
+D22   --> D123
+D23   --> D124
+D24   --> D125
+D25   --> D126
+D26   --> D127
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\ELCIO\UNISINOS\14-PROJETOS\2022_projeto PPI\MONTAGENS\Montagem-PlacaPPI\PPI NB V2 Gerber JLCPCB\Demo PPI NB V2-F_Mask.gts' ----   Tue Aug  6 16:37:26 2024
+
+D12   --> D128
+D13   --> D129
+D14   --> D130
+D15   --> D131
+D16   --> D132
+D17   --> D133
+D18   --> D134
+D19   --> D135
+D20   --> D136
+D21   --> D137
+D22   --> D138
+D23   --> D139
+D24   --> D140
+D25   --> D141
+D26   --> D142
+D33   --> D143
+D34   --> D144
+D35   --> D145
+D36   --> D146
+D37   --> D147
+D38   --> D148
+D39   --> D149
+D40   --> D150
+D41   --> D151
+D42   --> D152
+D43   --> D153
+D44   --> D154
+D45   --> D155
+D46   --> D156
+D47   --> D157
+D48   --> D158
+D49   --> D159
+D50   --> D160
+D51   --> D161
+D52   --> D162
+D53   --> D163
+D54   --> D164
+D55   --> D165
+D56   --> D166
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\ELCIO\UNISINOS\14-PROJETOS\2022_projeto PPI\MONTAGENS\Montagem-PlacaPPI\PPI NB V2 Gerber JLCPCB\Demo PPI NB V2-F_Paste.gtp' ----   Tue Aug  6 16:37:33 2024
+
+D10   --> D167
+D11   --> D168
+D12   --> D169
+D13   --> D170
+D14   --> D171
+D15   --> D172
+D16   --> D173
+D17   --> D174
+D18   --> D175
+D19   --> D176
+D20   --> D177
+D21   --> D178
+D22   --> D179
+D23   --> D180
+D24   --> D181
+D25   --> D182
+D26   --> D183
+D27   --> D184
+D28   --> D185
+D29   --> D186
+D30   --> D187
+D31   --> D188
+D32   --> D189
+D33   --> D190
+D34   --> D191
+D35   --> D192
+D36   --> D193
+D37   --> D194
+D38   --> D195
+D39   --> D196
+D40   --> D197
+D41   --> D198
+D42   --> D199
+D43   --> D200
+D44   --> D201
+D45   --> D202
+D46   --> D203
+D47   --> D204
+D48   --> D205
+D49   --> D206
+D50   --> D207
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\ELCIO\UNISINOS\14-PROJETOS\2022_projeto PPI\MONTAGENS\Montagem-PlacaPPI\PPI NB V2 Gerber JLCPCB\Demo PPI NB V2-F_Silkscreen.gto' ----   Tue Aug  6 16:37:42 2024
+
+D10   --> D208
+D11   --> D209
+D12   --> D210
+D13   --> D211
+D14   --> D212
+D15   --> D213
+D16   --> D214
+D17   --> D215
+D18   --> D216
+D19   --> D217
+D20   --> D218
+D21   --> D219
+D22   --> D220
+D23   --> D221
+D24   --> D222
+D25   --> D223
+D26   --> D224
+D27   --> D225
+D28   --> D226
+D29   --> D227
+D30   --> D228
+D31   --> D229
+D32   --> D230
+D33   --> D231
+D34   --> D232
+D35   --> D233
+D36   --> D234
+D37   --> D235
+D38   --> D236
+D39   --> D237
+D40   --> D238
+D41   --> D239
+D42   --> D240
+D43   --> D241
+D44   --> D242
+D45   --> D243
+D46   --> D244
+D47   --> D245
+D49   --> D246
+D50   --> D247
+D51   --> D248
+D52   --> D249
+D53   --> D250
+D54   --> D251
+D55   --> D252
+D56   --> D253
+D57   --> D254
+D58   --> D255
+D59   --> D256
+D60   --> D257
+D61   --> D258
+D62   --> D259
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\ELCIO\UNISINOS\14-PROJETOS\2022_projeto PPI\MONTAGENS\Montagem-PlacaPPI\PPI NB V2 Gerber JLCPCB\Demo PPI NB V2-In1_Cu.g2' ----   Tue Aug  6 16:37:50 2024
+
+D12   --> D260
+D13   --> D261
+D14   --> D262
+D15   --> D263
+D16   --> D264
+D17   --> D265
+D18   --> D266
+D19   --> D267
+D20   --> D268
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\ELCIO\UNISINOS\14-PROJETOS\2022_projeto PPI\MONTAGENS\Montagem-PlacaPPI\PPI NB V2 Gerber JLCPCB\Demo PPI NB V2-In2_Cu.g3' ----   Tue Aug  6 16:37:55 2024
+
+D12   --> D269
+D13   --> D270
+D14   --> D271
+D15   --> D272
+D16   --> D273
+D17   --> D274
+D18   --> D275
+D19   --> D276
+D20   --> D277
+D21   --> D278
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\ELCIO\UNISINOS\14-PROJETOS\2022_projeto PPI\MONTAGENS\Montagem-PlacaPPI\PPI NB V2 Gerber JLCPCB\Demo PPI NB V2-Margin.gbr' ----   Tue Aug  6 16:38:03 2024
+
+D10   --> D279
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\ELCIO\UNISINOS\14-PROJETOS\2022_projeto PPI\MONTAGENS\Montagem-PlacaPPI\PPI NB V2 Gerber JLCPCB\Demo PPI NB V2-PTH.drl' ----   Tue Aug  6 16:38:47 2024
+
+T1   --> T4
+T2   --> T5
+T3   --> T6
+T4   --> T7
+T5   --> T8
+T6   --> T9
+T7   --> T10
+T8   --> T11
+-----------------------------------------------------------------
