@@ -11,11 +11,11 @@ O projeto Microeletrônica 2A teve como objetivo o desenvolvimento, prototipaç�
 
 Para começar a usar o Kit de Desenvolvimento Educacional NB-IoT, acesse o documento: [Getting Started](https://github.com/ittchip-ppi/NBIoT/blob/main/6.%20Getting%20Started/Getting_Started_PPI_Dev_Kit_V1_1.pdf).
 
+### Agradecimentos
+
 ### Suporte
 
-https://forms.clickup.com/30922216/f/xfnf8-16347/KBY0CL3SXRGB73D0GR
-
-### Agradecimentos
+Acesse o link para suporte da HTMicron em: [Suporte](https://forms.clickup.com/30922216/f/xfnf8-16347/KBY0CL3SXRGB73D0GR)
 
 ### ITT Chip
 
